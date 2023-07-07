@@ -1,0 +1,29 @@
+mlg:
+  message: "&aYou successfully performed an MLG!"
+
+  validation-message: "&aPlayer has been sent to an MLG!"
+
+  bucket-delete: "&eYour water bucket has been removed."
+
+  usage: "&cUsage: /mlg <player>"
+
+flat:
+  usage: "&cUsage: /flat <length> <width> <block>"
+  executed: "&aSuccessfully created flat terrain."
+  error1: "&cLength and width must be whole numbers."
+  error2: "&cThe specified block is invalid."
+  error3: "&cDimensions must be less than 100 blocks."
+
+dropper:
+  message: "&aLand on the water source."
+
+  usage: "&cUsage: /dropper <player>"
+
+  executed: "&aSuccessfully executed Dropper command on the player."
+
+  Messages:
+  no-permission: "&cYou don't have the required permission to use this command."
+
+  console-error: "This command must be executed by a player!"
+
+  offline: "&cThe specified player is offline!"

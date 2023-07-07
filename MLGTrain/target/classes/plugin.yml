@@ -1,0 +1,23 @@
+name: MLGTrain
+version: '1.0.0'
+main: solarsmp.mlgtrain.MLGTrain
+api-version: '1.19'
+commands:
+  mlg:
+    description: MLG
+    permission: MLG.mlg
+    permission:-message: §cYou can't run this command!
+
+  dropper:
+    description: dropper
+    permission: MLG.dropper
+    permission-message: §cYou can't run this command!
+
+  flat:
+    description: flat
+    permission: MLG.flat
+    permission-message: §cYou can't run this command!
+  mlgset:
+    description: mlgset
+    permission: MLG.mlgset
+    permission-message: §cYou can't run this command!
